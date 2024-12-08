@@ -1,9 +1,9 @@
 {
-    "name": "paolo/paridispari",
+    "name": "paolo/quadrato",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Paolo\\paridispari\\": "src/"
+            "Paolo\\quadrato\\": "src/"
         }
     },
     "require-dev": {
